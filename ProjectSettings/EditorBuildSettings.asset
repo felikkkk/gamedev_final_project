@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 452d726a8edd65b488d8e559fbf89e98
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Level1_Bakery.unity
+    guid: 864b28e6cbe250c40967eca151b0c89b
+  - enabled: 1
+    path: Assets/Scenes/level2.unity
+    guid: 4c8a9f318f1a06b439957061b3827e96
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
